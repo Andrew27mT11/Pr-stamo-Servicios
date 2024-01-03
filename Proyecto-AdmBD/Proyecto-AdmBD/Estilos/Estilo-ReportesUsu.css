@@ -1,0 +1,84 @@
+﻿/* Estilo-Reportes.css */
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+
+
+form {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+
+
+.Reportes {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+
+.GridView {
+    margin-top: 20px;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+
+
+    .GridView th,
+    .GridView td {
+        padding: 8px;
+        border: 1px solid #ccc;
+    }
+
+
+
+    .GridView th {
+        background-color: #1C5E55;
+        color: white;
+        font-weight: bold;
+    }
+
+
+
+    .GridView tr:nth-child(even) {
+        background-color: #E3EAEB;
+    }
+
+
+
+    .GridView tr:hover {
+        background-color: #C5BBAF;
+    }
+
+
+
+.signup-link {
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+
+    .signup-link a {
+        color: #1C5E55;
+        text-decoration: none;
+    }
+
+
+
+        .signup-link a:hover {
+            text-decoration: underline;
+        }

@@ -1,0 +1,71 @@
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Negocios\bin\Debug\Negocios.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Negocios\bin\Debug\Negocios.pdb
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.pdb
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Negocios\bin\Debug\Negocios.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Negocios\bin\Debug\Negocios.pdb
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.pdb
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Negocios\bin\Debug\Negocios.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Negocios\bin\Debug\Negocios.pdb
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.pdb
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Negocios\bin\Debug\Negocios.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Negocios\bin\Debug\Negocios.pdb
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Negocios\bin\Debug\Negocios.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.pdb
+C:\Users\andre\Downloads\Proyecto-AdmBD\Negocios\bin\Debug\Negocios.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Negocios\bin\Debug\Negocios.pdb
+C:\Users\andre\Downloads\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\andre\Downloads\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.pdb
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Negocios\bin\Debug\Negocios.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Negocios\bin\Debug\Negocios.pdb
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.pdb
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Negocios\bin\Debug\Negocios.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Negocios\bin\Debug\Negocios.pdb
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.pdb
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Negocios\bin\Debug\Negocios.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Negocios\bin\Debug\Negocios.pdb
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Negocios\bin\Debug\Negocios.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Negocios\bin\Debug\Negocios.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Negocios\bin\Debug\Negocios.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Negocios\obj\Debug\Negocios.pdb

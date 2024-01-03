@@ -1,0 +1,793 @@
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.dll.config
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.pdb
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.exe
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.exe.config
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.rsp
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.exe
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.exe.config
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.rsp
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.AppContext.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Console.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.Compression.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Net.Http.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.ValueTuple.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.exe
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.exe.config
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.rsp
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\VBCSCompiler.exe
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.AssemblyReference.cache
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.CoreCompileInputs.cache
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.CopyComplete
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.pdb
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\Negocios.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\Negocios.pdb
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.dll.config
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.pdb
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.exe
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.exe.config
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.rsp
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.exe
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.exe.config
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.rsp
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Managed.Core.targets
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.AppContext.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Collections.Immutable.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Console.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Globalization.Calendars.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.Compression.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.FileSystem.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Net.Http.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Net.Sockets.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Reflection.Metadata.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.ValueTuple.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XmlDocument.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XPath.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.exe
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.exe.config
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.rsp
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\VBCSCompiler.exe
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\VBCSCompiler.exe.config
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\Negocios.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\Negocios.pdb
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.AssemblyReference.cache
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.CoreCompileInputs.cache
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.CopyComplete
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.dll
+E:\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.pdb
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.dll.config
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.pdb
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.exe
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.exe.config
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.rsp
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.exe
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.exe.config
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.rsp
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.AppContext.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Console.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.Compression.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Net.Http.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Net.Sockets.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.ValueTuple.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.exe
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.exe.config
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.rsp
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\VBCSCompiler.exe
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\Negocios.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\Negocios.pdb
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.AssemblyReference.cache
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.CopyComplete
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.pdb
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.dll.config
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.pdb
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.exe
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.exe.config
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.rsp
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.exe
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.exe.config
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.rsp
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.AppContext.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Console.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.Compression.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Net.Http.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.ValueTuple.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.exe
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.exe.config
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.rsp
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\VBCSCompiler.exe
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\Negocios.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\Negocios.pdb
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.AssemblyReference.cache
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.CoreCompileInputs.cache
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.CopyComplete
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.pdb
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.dll.config
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.pdb
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.exe
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.exe.config
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.rsp
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.exe
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.exe.config
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.rsp
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.AppContext.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Console.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.Compression.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Net.Http.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Net.Sockets.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.ValueTuple.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.exe
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.exe.config
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.rsp
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\VBCSCompiler.exe
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\Negocios.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\Negocios.pdb
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.AssemblyReference.cache
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.CopyComplete
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.dll
+C:\Users\andre\Downloads\Proyecto\Proyecto-AdmBD\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.pdb
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.AssemblyReference.cache
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.pdb
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.dll.config
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.pdb
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.exe
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.exe.config
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.rsp
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.exe
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.exe.config
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.rsp
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.AppContext.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Console.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.Compression.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Net.Http.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.ValueTuple.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.exe
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.exe.config
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.rsp
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\VBCSCompiler.exe
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\Negocios.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\Negocios.pdb
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.CopyComplete
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.dll.config
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.pdb
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.exe
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.exe.config
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.rsp
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.exe
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.exe.config
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.rsp
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.AppContext.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Console.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.Compression.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Net.Http.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Net.Sockets.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.ValueTuple.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.exe
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.exe.config
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.rsp
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\VBCSCompiler.exe
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\Negocios.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\Negocios.pdb
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.AssemblyReference.cache
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.CopyComplete
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.dll
+C:\Users\andre\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.pdb
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.dll.config
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.pdb
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.exe
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.exe.config
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.rsp
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.exe
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.exe.config
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.rsp
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.AppContext.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Console.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.Compression.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Net.Http.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.ValueTuple.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.exe
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.exe.config
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.rsp
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\VBCSCompiler.exe
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\Negocios.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\Negocios.pdb
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.AssemblyReference.cache
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.CoreCompileInputs.cache
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.CopyComplete
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.dll
+C:\Users\ANDREA ARAYA\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.pdb
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.dll.config
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.pdb
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.exe
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.exe.config
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.rsp
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.exe
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.exe.config
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.rsp
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.AppContext.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Console.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.Compression.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Net.Http.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.ValueTuple.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.exe
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.exe.config
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.rsp
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\VBCSCompiler.exe
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\Negocios.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\Negocios.pdb
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.AssemblyReference.cache
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.CoreCompileInputs.cache
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.CopyComplete
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.dll
+C:\Users\ANDREA ARAYA\Desktop\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.pdb
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.dll.config
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.pdb
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.exe
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.exe.config
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.rsp
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.exe
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.exe.config
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.rsp
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.AppContext.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Console.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.Compression.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Net.Http.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.ValueTuple.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.exe
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.exe.config
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.rsp
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\VBCSCompiler.exe
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\Negocios.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\Negocios.pdb
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.AssemblyReference.cache
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.CoreCompileInputs.cache
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.CopyComplete
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.dll
+C:\Users\ANDREA ARAYA\Desktop\CUC 2023\Cuatri 2\Adm BD\Proyecto-AdmBD\Adelanto 2\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.pdb
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.dll.config
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.pdb
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.exe
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.exe.config
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.rsp
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.exe
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.exe.config
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.rsp
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.AppContext.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Console.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.Compression.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Net.Http.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.ValueTuple.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.exe
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.exe.config
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.rsp
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\VBCSCompiler.exe
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\Negocios.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\Negocios.pdb
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.AssemblyReference.cache
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.CopyComplete
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.pdb
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.dll.config
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.pdb
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.exe
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.exe.config
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.rsp
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.exe
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.exe.config
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.rsp
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.AppContext.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Console.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.Compression.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Net.Http.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.ValueTuple.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.exe
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.exe.config
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.rsp
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\VBCSCompiler.exe
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\Negocios.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\Negocios.pdb
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.AssemblyReference.cache
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.CopyComplete
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.dll
+C:\Users\Personal\Documents\CUC\CURSOS\Admin De Bases de Datos C2\Proyectos\Proyecto 1\Adelanto 3\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.pdb
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.dll.config
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\Proyecto-AdmBD.pdb
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.exe
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.exe.config
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csc.rsp
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.exe
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.exe.config
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\csi.rsp
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.AppContext.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Console.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.Compression.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Net.Http.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.ValueTuple.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.exe
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.exe.config
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\vbc.rsp
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\VBCSCompiler.exe
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\Negocios.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\Negocios.pdb
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.AssemblyReference.cache
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.csproj.CopyComplete
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.dll
+C:\Users\Andres\Downloads\Proyecto-AdmBD\Proyecto-AdmBD\obj\Debug\Proyecto-AdmBD.pdb

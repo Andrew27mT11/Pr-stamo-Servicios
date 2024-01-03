@@ -1,0 +1,77 @@
+﻿/* Estilo_PerfilOf.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+form {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+    form div {
+        margin-bottom: 15px;
+    }
+
+    form input[type="text"],
+    form select {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+
+        form input[type="text"]:focus,
+        form select:focus {
+            outline: none;
+            border-color: #1C5E55;
+            box-shadow: 0 0 5px #1C5E55;
+        }
+
+    form input[type="submit"] {
+        background-color: #1C5E55;
+        color: #fff;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+        form input[type="submit"]:hover {
+            background-color: #15524A;
+        }
+
+    form select {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        background-color: #fff;
+    }
+
+        form select:focus {
+            outline: none;
+            border-color: #1C5E55;
+            box-shadow: 0 0 5px #1C5E55;
+        }
+
+p.signup-link {
+    text-align: center;
+    margin-top: 20px;
+}
+
+    p.signup-link a {
+        color: #1C5E55;
+        text-decoration: none;
+    }
+
+        p.signup-link a:hover {
+            text-decoration: underline;
+        }
